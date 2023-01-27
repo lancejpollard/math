@@ -93,7 +93,7 @@ The Minkowski model of spacetime is based on the idea that spacetime can be repr
 
 ### The Amplituhedron
 
-As a possible model of subatomic particles, this model is very new and interesting. It relies on the Grassmanian.
+As a possible model of subatomic particles, this model is very new and interesting. The mathematical structure underlying the model of the amplituhedron is called a Grassmannian. A Grassmannian is a type of algebraic variety that consists of all subspaces of a given vector space of a fixed dimension. The amplituhedron is a particular type of Grassmannian called a positive Grassmannian. It is defined as the set of all subspaces of a given vector space that are positive in a certain sense. The amplituhedron model is based on the idea that the scattering amplitudes in certain quantum field theories can be represented as geometric objects in a positive Grassmannian, and this representation allows for a more efficient and intuitive calculation of these amplitudes. To work with the amplituhedron, one uses the tools of algebraic geometry and the theory of geometric representations of Lie groups.
 
 ### Grand-Unified Theories (GUTs) in Physics
 
