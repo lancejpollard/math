@@ -60,18 +60,40 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 
 ### Mathematical Structures
 
-- **Group**: a set with a binary operation that satisfies associativity, the existence of an identity element, and the existence of inverse elements.
-- **Ring**: a set with two binary operations, usually called addition and multiplication, that satisfy certain properties such as associativity, the existence of identity elements and inverse elements, and the distributive property.
-- **Field**: a commutative ring with a non-zero multiplicative identity and in which every non-zero element has a multiplicative inverse.
-- **Lattice**: a partially ordered set in which every two elements have a unique least upper bound and greatest lower bound
-- **Space**
-- **Algebra**: a set with one or more operations that satisfy certain properties such as associativity, distributivity, and the existence of identity elements and inverse elements.
-- **Knot**: a closed loop of a smooth curve in 3-dimensional space.
-- Domain
-- Codomain
-- Mapping
-- Hyperbola
-- Parabola
+1. **Group**: a set with a binary operation that satisfies associativity, the existence of an identity element, and the existence of inverse elements.
+1. **Ring**: a set with two binary operations, usually called addition and multiplication, that satisfy certain properties such as associativity, the existence of identity elements and inverse elements, and the distributive property.
+1. **Field**: a commutative ring with a non-zero multiplicative identity and in which every non-zero element has a multiplicative inverse.
+1. **Lattice**: a partially ordered set in which every two elements have a unique least upper bound and greatest lower bound
+1. **Space**
+1. **Algebra**: a set with one or more operations that satisfy certain properties such as associativity, distributivity, and the existence of identity elements and inverse elements.
+1. **Knot**: a closed loop of a smooth curve in 3-dimensional space.
+1. Domain
+1. Codomain
+1. Mapping
+1. Hyperbola
+1. Parabola
+1. Simplical Complex
+1. Polytope
+1. Polygon
+1. **Sheaf**: a mathematical object that describes how local data on a topological space can be glued together to form global data.
+1. **Vector Bundle**: a mathematical object that locally looks like a direct product of a topological space with a vector space, but globally may have a more complicated structure.
+1. **Manifold**: a topological space that locally looks like Euclidean space of a certain dimension.
+1. **Algebraic Variety**: the set of common solutions of a system of polynomial equations in several variables.
+1. **Cohomology**: a mathematical tool that describes how global data on a topological space can be reconstructed from local data.
+1. **Homotopy**: a mathematical tool that describes how different continuous functions between topological spaces are "similar" in some sense.
+1. **Tensor**: a multidimensional array of numbers, with certain transformation properties under changes of coordinates.
+1. **Spectral sequence**: a tool for computing the cohomology of a space by studying the cohomology of simpler spaces related to it
+1. **Schemes**: a generalization of algebraic varieties in which the polynomial equations are replaced by more general equations
+1. **Differential forms**: a mathematical tool used to integrate functions over manifolds
+1. **Category**: a mathematical structure that describes how different mathematical objects are related to each other
+1. **Functor**: a mathematical tool that describes how different mathematical structures are related to each other
+1. **Homology**: a tool for studying topological spaces by associating algebraic structures to them.
+1. **Graph**: a mathematical object consisting of a set of vertices and edges connecting them, used to model various relations between objects.
+1. **Module**: a generalization of vector spaces where the scalars come from a ring rather than a field.
+1. **Quiver**: a directed graph used to represent algebraic structures such as representations of algebras.
+1. **Monoid**: a semigroup with an identity element.
+1. **Semigroup**: a set with an associative binary operation.
+1. **Magma**: a set with a binary operation.
 
 ### Mathematical Groups
 
@@ -341,3 +363,16 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **Differential Graded algebra**: a type of algebra that studies the algebraic properties of differential graded modules.
 1. **Deformation algebra**: a type of algebra that studies the algebraic properties of deformed structures
 1. **Differentially Graded algebra**: a type of algebra that generalizes the concept of differential graded algebra.
+1. **Hopf algebra**: an algebra with a comultiplication and counit operations that make it a bialgebra and an antipode operation that makes it a Hopf algebra.
+1. **Universal algebra**: A branch of mathematics that studies algebraic structures, such as groups, rings, and lattices, from a general point of view.
+
+### Mathematical Homologies
+
+#### List of Mathematical Homologies
+
+1. **Singular homology**: a way to assign algebraic invariants to topological spaces by associating a group to each dimension of the space.
+1. **Simplicial homology**: a way to assign algebraic invariants to simplicial complexes by associating a group to each dimension of the complex.
+1. **Cech homology**: a way to assign algebraic invariants to open covers of topological spaces by associating a group to each dimension of the space.
+1. **Relative homology**: A way to compute the homology of a pair of spaces by taking into account their relationship to one another.
+1. **Alexander-Spanier homology**: A way to assign algebraic invariants to topological spaces by associating a group to each dimension of the space using a basis of open sets.
+1. **Borel-Moore homology**: A way to assign algebraic invariants to locally compact topological spaces by associating a group to each dimension of the space using compact supports.
