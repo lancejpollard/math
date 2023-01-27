@@ -67,14 +67,14 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **Space**
 1. **Algebra**: a set with one or more operations that satisfy certain properties such as associativity, distributivity, and the existence of identity elements and inverse elements.
 1. **Knot**: a closed loop of a smooth curve in 3-dimensional space.
-1. Domain
-1. Codomain
-1. Mapping
-1. Hyperbola
-1. Parabola
-1. Simplical Complex
-1. Polytope
-1. Polygon
+1. **Domain**
+1. **Codomain**
+1. **Mapping**
+1. **Hyperbola**
+1. **Parabola**
+1. **Simplical Complex**
+1. **Polytope**
+1. **Polygon**
 1. **Sheaf**: a mathematical object that describes how local data on a topological space can be glued together to form global data.
 1. **Vector Bundle**: a mathematical object that locally looks like a direct product of a topological space with a vector space, but globally may have a more complicated structure.
 1. **Manifold**: a topological space that locally looks like Euclidean space of a certain dimension.
@@ -94,6 +94,12 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **Monoid**: a semigroup with an identity element.
 1. **Semigroup**: a set with an associative binary operation.
 1. **Magma**: a set with a binary operation.
+1. **Vertex**
+1. **Edge**
+1. **Tree**
+1. **List**
+1. **Language**
+1. **Automaton**
 
 ### Mathematical Groups
 
