@@ -89,6 +89,8 @@ Mercator projection.
 
 ### The Structure of Spacetime
 
+The Minkowski model of spacetime is based on the idea that spacetime can be represented as a four-dimensional vector space, with three dimensions of space and one dimension of time. This model is the foundation of special relativity, which is a theory that describes the fundamental properties of space and time in the absence of gravity. In this model, the spacetime interval between two events is given by a formula known as the Minkowski metric, which is used to measure the distance between events in spacetime. The Minkowski model of spacetime is also the foundation of the mathematical framework used in the study of quantum field theory and the theory of general relativity.
+
 ### Quantum Mechanics
 
 In quantum mechanics, symmetries play a crucial role in determining the behavior of physical systems. Group theory is a powerful mathematical tool that is used to describe and analyze these symmetries.
