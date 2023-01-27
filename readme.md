@@ -91,6 +91,16 @@ Mercator projection.
 
 The Minkowski model of spacetime is based on the idea that spacetime can be represented as a four-dimensional vector space, with three dimensions of space and one dimension of time. This model is the foundation of special relativity, which is a theory that describes the fundamental properties of space and time in the absence of gravity. In this model, the spacetime interval between two events is given by a formula known as the Minkowski metric, which is used to measure the distance between events in spacetime. The Minkowski model of spacetime is also the foundation of the mathematical framework used in the study of quantum field theory and the theory of general relativity.
 
+### The Amplituhedron
+
+As a possible model of subatomic particles, this model is very new and interesting. It relies on the Grassmanian.
+
+### Grand-Unified Theories (GUTs) in Physics
+
+[$SO(10)$](<https://en.wikipedia.org/wiki/SO(10)>) refers to a grand unified theory (GUT) based on the spin group $Spin(10)$.
+
+In grand unification theories, [E6](<https://en.wikipedia.org/wiki/E6_(mathematics)>) appears as a possible gauge group which, after its breaking, gives rise to the SU(3) × SU(2) × U(1) gauge group of the standard model.
+
 ### Quantum Mechanics
 
 In quantum mechanics, symmetries play a crucial role in determining the behavior of physical systems. Group theory is a powerful mathematical tool that is used to describe and analyze these symmetries.
