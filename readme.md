@@ -100,6 +100,9 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **List**
 1. **Language**
 1. **Automaton**
+1. **Complex**
+1. **Chain**
+1. **Cochain**
 
 ### Mathematical Groups
 
@@ -220,11 +223,12 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 
 #### List of Mathematical Spaces
 
+- https://en.wikipedia.org/wiki/List_of_topologies
+
 1. **Euclidean space**: A mathematical space where the distance between two points is defined by the Euclidean distance formula, often used in geometry and physics.
 1. **Affine space**: A mathematical space that is a generalization of Euclidean space, where the parallelism of lines is defined, but not the congruence of figures.
 1. **Projective space**: A mathematical space formed by the set of lines passing through the origin of a vector space. It is used in projective geometry.
 1. **Vector space**: A mathematical space that is closed under operations of vector addition and scalar multiplication, and it is used in linear algebra.
-1. \*\*\*\*: A mathematical space that is a generalization of Euclidean space and it is used in functional analysis and quantum mechanics.
 1. **Banach space**: A complete normed vector space, and it is used in functional analysis.
 1. **Topological space**: A mathematical space that has a notion of continuity, and it is used in topology.
 1. **Metric space**: A generalization of Euclidean space where a metric (distance function) is defined, and it is used in analysis.
@@ -259,6 +263,7 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **nuclear space**: A topological vector space that is the inductive limit of a sequence of finite-dimensional spaces.
 1. **Fréchet–Urysohn space**: A topological space in which for any two points, there is a sequence of points converging to both of them.
 1. **Coarse space**: A topological space with a notion of large-scale or coarse geometry.
+1. **Quaternionic projective space**: a smooth manifold consisting of all quaternionic lines passing through the origin in a quaternionic vector space of arbitrary dimension.
 
 ### Mathematical Rings
 
@@ -382,3 +387,49 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **Relative homology**: A way to compute the homology of a pair of spaces by taking into account their relationship to one another.
 1. **Alexander-Spanier homology**: A way to assign algebraic invariants to topological spaces by associating a group to each dimension of the space using a basis of open sets.
 1. **Borel-Moore homology**: A way to assign algebraic invariants to locally compact topological spaces by associating a group to each dimension of the space using compact supports.
+1. **De Rham homology**: a way to assign algebraic invariants to differentiable manifolds using differential forms.
+1. **Morse homology**: a way to assign algebraic invariants to manifolds using the critical points of a Morse function.
+1. **Floer homology**: a way to assign algebraic invariants to symplectic manifolds using the solutions of certain partial differential equations.
+1. **Khovanov homology**: a way to assign algebraic invariants to knots and links using graded vector spaces.
+1. **Heegaard Floer homology**: a way to assign algebraic invariants to 3-dimensional manifolds using the solutions of certain partial differential equations.
+1. **Persistent homology**: a way to assign algebraic invariants to topological spaces using a filtration of the space.
+1. **Hochschild homology**: a way to assign algebraic invariants to associative algebras using the Hochschild complex.
+1. **Cyclic homology**: a way to assign algebraic invariants to noncommutative algebras using the cyclic complex.
+
+### Mathematical Automata
+
+#### List of Mathematical Automata
+
+1. **Finite automaton**: a mathematical model of a machine with a finite number of states that can be in one of them at a time, and transition between states based on input symbols.
+1. **Pushdown automaton**: an automaton that can also make use of a stack, which allows it to recognize context-free languages.
+1. **Linear-bounded automaton**: a variation of pushdown automaton that has a restriction on the stack, that is, the stack is of fixed size.
+1. **Turing machine**: a mathematical model of a machine that can read and write symbols on a tape, and move the tape left or right. It can recognize all recursively enumerable languages.
+1. **Quantum finite automaton**: an automaton that uses quantum mechanical properties such as superposition and entanglement to perform its computations.
+1. **Mealy machine**: a finite state machine whose output depends on both the current state and the current input symbol.
+1. **Moore machine**: a finite state machine whose output depends only on the current state.
+1. **Multi-tape Turing machine**: A variation of the Turing machine that can use more than one tape to perform its computations.
+1. **Cellular automaton**: a discrete model of a system of cells, each of which can be in one of a finite number of states and whose state evolves over time according to a set of rules.
+1. **Weighted automata**: a type of automaton that assigns weights or costs to transitions, allowing for the computation of the overall weight or cost of a path through the automaton.
+1. **Nondeterministic automata**: a type of automaton that allows for multiple transitions from a single state based on the input.
+1. **Probabilistic automata**: a type of automaton that assigns probabilities to transitions, allowing for the computation of the overall probability of a path through the automaton.
+
+### Mathematical Manifolds
+
+#### List of Mathematical Manifolds
+
+- https://en.wikipedia.org/wiki/List_of_manifolds
+
+1. **Euclidean manifold**: a manifold modeled on Euclidean space, which locally looks like a Euclidean space of any dimension
+1. **Riemannian manifold**: a manifold equipped with a positive definite inner product on the tangent space at each point
+1. **Complex manifold**: a manifold modeled on complex space, which locally looks like a complex space of any dimension
+1. **Kähler manifold**: a complex manifold equipped with a Riemannian metric and a compatible complex structure
+1. **Symplectic manifold**: a manifold equipped with a closed, non-degenerate 2-form
+1. **Contact manifold**: a manifold equipped with a certain type of 1-form called a contact form
+1. **Sasakian manifold**: a contact manifold equipped with a compatible Riemannian metric
+1. **Quaternionic manifold**: a manifold modeled on quaternionic space, which locally looks like a quaternionic space of any dimension
+1. **Hyperbolic manifold**: a manifold modeled on hyperbolic space, which locally looks like a hyperbolic space of any dimension
+1. **Projective manifold**: a manifold modeled on projective space, which locally looks like a projective space of any dimension
+1. **Grassmannian manifold**: a manifold consisting of all linear subspaces of a given dimension of a vector space
+1. **Flag manifold**: a manifold consisting of all flags (complete chains of linear subspaces) of a given type in a vector space.
+1. **Lorentzian manifold**: a smooth manifold equipped with a Lorentz metric, a smooth quadratic form of signature (n-1,1) on the tangent space at each point.
+1. **Kähler manifold**: a complex manifold equipped with a Hermitian metric and a compatible almost complex structure.
