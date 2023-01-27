@@ -71,6 +71,11 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 
 This section outlines some of the reasons why specific objects, actions, or features in math are interesting.
 
+- Lie groups
+- Clifford algebras
+- Vectors
+- Matrices
+
 ### The Structure of Subatomic Particles
 
 A [particle](https://en.wikipedia.org/wiki/Subatomic_particle) is an irreducible representation of the Poincaré group. The local $SU(3)×SU(2)×U(1)$ gauge symmetry is an internal symmetry that essentially defines the Standard Model. The quantum chromodynamics (QCD) sector defines the interactions between quarks and gluons, which is a Yang–Mills gauge theory with $SU(3)$ symmetry. The electroweak sector is a Yang–Mills gauge theory with the symmetry group $U(1) × SU(2)_L$. In the Standard Model, the Higgs field is a complex scalar of the group $SU(2)_L$.
@@ -97,13 +102,19 @@ The Minkowski model of spacetime is based on the idea that spacetime can be repr
 
 As a possible model of subatomic particles, this model is very new and interesting. The mathematical structure underlying the model of the amplituhedron is called a Grassmannian. A Grassmannian is a type of algebraic variety that consists of all subspaces of a given vector space of a fixed dimension. The amplituhedron is a particular type of Grassmannian called a positive Grassmannian. It is defined as the set of all subspaces of a given vector space that are positive in a certain sense. The amplituhedron model is based on the idea that the scattering amplitudes in certain quantum field theories can be represented as geometric objects in a positive Grassmannian, and this representation allows for a more efficient and intuitive calculation of these amplitudes. To work with the amplituhedron, one uses the tools of algebraic geometry and the theory of geometric representations of Lie groups.
 
-An alternative to the amplituhedron is the associahedron, which is another geometric object that can be used to encode the amplitudes of certain theories, this time in the context of the study of the amplitudes of gravity and Yang-Mills theory.
+An alternative to the amplituhedron is the associahedron, which is another geometric object that can be used to encode the amplitudes of certain theories, this time in the context of the study of the amplitudes of gravity and Yang-Mills theory. The associahedron is a convex polytope. It is a higher-dimensional generalization of the well-known two-dimensional pentagon (a five-sided polygon) and the three-dimensional cube. The associahedron can be defined as the convex hull of the set of all possible parenthesizations of a given sequence of elements.
+
+### Spinors in Physics
+
+The mathematics behind spinors is based on the theory of Clifford algebras and the representation of rotations in higher-dimensional Euclidean spaces. A spinor is a type of vector in a vector space equipped with a quadratic form, which can be used to represent rotations in the space. Spinors are used in various areas of physics, including quantum mechanics, general relativity, and particle physics. They are particularly useful in representing the symmetries of spacetime, as they can be used to represent the action of the Lorentz group, which is the group of all possible Lorentz transformations. In particular, in physics, spinors are used to represent states of particles with intrinsic angular momentum, known as spin.
 
 ### Grand-Unified Theories (GUTs) in Physics
 
-$[SO(10)](<https://en.wikipedia.org/wiki/SO(10)>)$ refers to a grand unified theory (GUT) based on the spin group $Spin(10)$.
+[SO(10)](<https://en.wikipedia.org/wiki/SO(10)>) refers to a grand unified theory (GUT) based on the spin group $Spin(10)$.
 
 In grand unification theories, [E6](<https://en.wikipedia.org/wiki/E6_(mathematics)>) appears as a possible gauge group which, after its breaking, gives rise to the SU(3) × SU(2) × U(1) gauge group of the standard model.
+
+[AdS/CFT correspondence](https://en.wikipedia.org/wiki/AdS/CFT_correspondence)
 
 ### Quantum Mechanics
 
@@ -112,6 +123,10 @@ In quantum mechanics, symmetries play a crucial role in determining the behavior
 In quantum mechanics, Hilbert space is used to mathematically represent the state space of a quantum system. It is a complex vector space equipped with an inner product, and it is used to describe the wave function of a quantum system. The wave function, which is a mathematical function that describes the state of a system, is typically represented as a vector in Hilbert space. The inner product on Hilbert space allows for the calculation of probabilities and the creation of probability distributions. Additionally, the mathematical structure of Hilbert space allows for the use of linear algebraic techniques to study the time evolution of a quantum system. In short, the use of Hilbert space in quantum mechanics allows for a precise mathematical description of quantum systems, which is essential for understanding their behavior and making predictions about their future states.
 
 ### Quantum Computing
+
+### Visual Object Recognition
+
+In computer vision, visual object boundary detection is the process of detecting the boundaries of objects in images or videos. The math behind this process typically involves the use of image processing techniques such as filtering, thresholding, edge detection, and segmentation. One popular method for boundary detection is the Canny edge detection algorithm, which uses a combination of gradient magnitude and direction to identify edges in an image. Other methods include the use of active contours, also known as snakes, which are used to model the boundaries of objects, and deep learning-based methods that use convolutional neural networks to learn features from images and detect boundaries.
 
 ### Automatic Layouts
 
@@ -130,6 +145,14 @@ This makes it so the compiler detects errors before your program runs.
 ### The Block Chain
 
 ### String Theory
+
+### Special and General Relativity
+
+In physics, the unit hyperbola plays an important role in the theory of special relativity, where it is used to describe the relationship between space and time. The unit hyperbola is also used in the study of phase space in mechanics, where it is used to describe the possible states of a system.
+
+### Hyperbolic Tessellations
+
+### Cellular Automata
 
 ## Appendix
 
