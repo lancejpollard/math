@@ -118,6 +118,8 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 
 ## Mathematical Matrices
 
+### List of Mathematical Matrices
+
 1. **Square matrix**: A matrix with the same number of rows and columns.
 1. **Diagonal matrix**: A square matrix where all the entries outside the main diagonal are zero.
 1. **Identity matrix**: A square matrix with all the diagonal entries as 1 and all the other entries as 0.
@@ -168,3 +170,47 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 1. **Kinematic matrix**: A matrix used in robotics and mechanics to represent the motion of a system
 1. **Linear transformation matrix**: A matrix used to represent a linear transformation of a vector space
 1. **Moment of inertia matrix**: A matrix used in physics to represent the distribution of mass in a rotating body.
+
+## Mathematical Spaces
+
+### List of Mathematical Spaces
+
+1. **Euclidean space**: A mathematical space where the distance between two points is defined by the Euclidean distance formula, often used in geometry and physics.
+1. **Affine space**: A mathematical space that is a generalization of Euclidean space, where the parallelism of lines is defined, but not the congruence of figures.
+1. **Projective space**: A mathematical space formed by the set of lines passing through the origin of a vector space. It is used in projective geometry.
+1. **Vector space**: A mathematical space that is closed under operations of vector addition and scalar multiplication, and it is used in linear algebra.
+1. \*\*\*\*: A mathematical space that is a generalization of Euclidean space and it is used in functional analysis and quantum mechanics.
+1. **Banach space**: A complete normed vector space, and it is used in functional analysis.
+1. **Topological space**: A mathematical space that has a notion of continuity, and it is used in topology.
+1. **Metric space**: A generalization of Euclidean space where a metric (distance function) is defined, and it is used in analysis.
+1. **Normed vector space**: A vector space with a notion of length (or "size"), and it is used in functional analysis.
+1. **Measure space**: A mathematical space that carries a measure, a way to assign a size to subsets, and it is used in measure theory and integration.
+1. **Function space**: A mathematical space consisting of a set of functions, and it is used in various branches of mathematics, such as functional analysis and differential equations.
+1. **Manifold**: A topological space that locally resembles Euclidean space, and it is used in differential geometry.
+1. **Phase space**: A mathematical space in which all possible states of a physical system are represented, and it is used in classical mechanics and thermodynamics.
+1. **Configuration space**: A mathematical space that describes the possible configurations of a mechanical system, and it is used in mechanics and physics.
+1. **State space**: A mathematical space that describes the set of all possible states of a system, and it is used in systems theory and control theory.
+1. **Moduli space**: A mathematical space that describes the set of all possible configurations of a system up to certain equivalence relations, and it is used in physics and mathematics.
+1. **Representation space**: A mathematical space that describes the set of all possible ways to represent a certain object, and it is used in group theory and physics.
+1. **Teichmüller space**: A mathematical space that describes the set of all possible complex structures on a certain topological space, and it is used in complex analysis and geometry.
+1. **Grassmannian**: A mathematical space that describes the set of all possible subspaces of a given vector space, and it is used in algebraic geometry and representation theory.
+1. **Flag variety**: A mathematical space that describes the set of all possible flags of subspaces of a given vector space, and it is used in algebraic geometry and representation theory.
+1. **Symmetric space**: A Riemannian manifold that is invariant under a transitive group of isometries.
+1. **Quotient space**: A space formed by the set of all possible cosets of a subgroup of a group with respect to a given group action.
+1. **Orbit space**: The set of all possible orbits of a group action on a space.
+1. **Product space**: The cartesian product of two or more spaces, with the product topology.
+1. **Normed space**: A topological vector space with a norm, which defines a notion of length for vectors.
+1. **Compact space**: A space in which every open cover has a finite subcover.
+1. **Connected space**: A space in which there is no separation into two nonempty disjoint open sets.
+1. **path-connected space**: A space in which there is a path between any two points
+1. **locally path-connected space**: A space in which for any point, there is a neighbourhood that is path-connected.
+1. **Simply connected space**: A space that is path-connected and has no nontrivial loops.
+1. **K-space**: A space in which all compact subsets are closed.
+1. **Hausdorff space**: A space in which any two distinct points have disjoint neighborhoods.
+1. **Alexandrov space**: A space in which any two points can be joined by a geodesic.
+1. **Baire space**: A space in which the intersection of countably many dense open sets is dense.
+1. **Stone space**: A space in which the continuous functions are precisely the functions that are determined by their values on a dense subset.
+1. **Frechet space**: A complete metrizable locally convex topological vector space
+1. **nuclear space**: A topological vector space that is the inductive limit of a sequence of finite-dimensional spaces.
+1. **Fréchet–Urysohn space**: A topological space in which for any two points, there is a sequence of points converging to both of them.
+1. **Coarse space**: A topological space with a notion of large-scale or coarse geometry.
