@@ -65,6 +65,32 @@ Math boils down to these sorts of objects, actions, and features:
 
 Each of these has dozens or hundreds of sub-types focusing on different aspects of the structure.
 
+## Why _it_ is Interesting
+
+This section outlines some of the reasons why specific objects, actions, or features in math are interesting.
+
+### The Structure of Subatomic Particles
+
+### Drawing on the Computer Screen
+
+### Mapping Mouse Click to a Graphic
+
+### The Structure of Spacetime
+
+### Automatic Layouts
+
+### Representing Knowledge Webs
+
+### Compiling Software
+
+### Automatic Software Verification
+
+### Typing your Code
+
+This makes it so the compiler detects errors before your program runs.
+
+### Parsing Text
+
 ## Appendix
 
 Here we go into a bunch of common mathematical structures, first starting with general high-level structures, then digging down into lists of structures in categories which have lots of named structures.
@@ -86,6 +112,8 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **Simplical Complex**
 1. **Polytope**
 1. **Polygon**
+1. **Torque**
+1. **Momentum**
 1. **Sheaf**: a mathematical object that describes how local data on a topological space can be glued together to form global data.
 1. **Vector Bundle**: a mathematical object that locally looks like a direct product of a topological space with a vector space, but globally may have a more complicated structure.
 1. **Manifold**: a topological space that locally looks like Euclidean space of a certain dimension.
