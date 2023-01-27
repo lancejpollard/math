@@ -58,6 +58,21 @@ Each of these has dozens or hundreds of sub-types focusing on different aspects 
 
 ## Appendix
 
+### Mathematical Structures
+
+- **Group**: a set with a binary operation that satisfies associativity, the existence of an identity element, and the existence of inverse elements.
+- **Ring**: a set with two binary operations, usually called addition and multiplication, that satisfy certain properties such as associativity, the existence of identity elements and inverse elements, and the distributive property.
+- **Field**: a commutative ring with a non-zero multiplicative identity and in which every non-zero element has a multiplicative inverse.
+- **Lattice**: a partially ordered set in which every two elements have a unique least upper bound and greatest lower bound
+- **Space**
+- **Algebra**: a set with one or more operations that satisfy certain properties such as associativity, distributivity, and the existence of identity elements and inverse elements.
+- **Knot**: a closed loop of a smooth curve in 3-dimensional space.
+- Domain
+- Codomain
+- Mapping
+- Hyperbola
+- Parabola
+
 ### Mathematical Groups
 
 #### List of Mathematical Groups
