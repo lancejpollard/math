@@ -65,6 +65,8 @@ Math boils down to these sorts of objects, actions, and features:
 
 Each of these has dozens or hundreds of sub-types focusing on different aspects of the structure.
 
+## Renaming the Mathematical Structures
+
 ## Why _it_ is Interesting
 
 This section outlines some of the reasons why specific objects, actions, or features in math are interesting.
@@ -95,9 +97,11 @@ The Minkowski model of spacetime is based on the idea that spacetime can be repr
 
 As a possible model of subatomic particles, this model is very new and interesting. The mathematical structure underlying the model of the amplituhedron is called a Grassmannian. A Grassmannian is a type of algebraic variety that consists of all subspaces of a given vector space of a fixed dimension. The amplituhedron is a particular type of Grassmannian called a positive Grassmannian. It is defined as the set of all subspaces of a given vector space that are positive in a certain sense. The amplituhedron model is based on the idea that the scattering amplitudes in certain quantum field theories can be represented as geometric objects in a positive Grassmannian, and this representation allows for a more efficient and intuitive calculation of these amplitudes. To work with the amplituhedron, one uses the tools of algebraic geometry and the theory of geometric representations of Lie groups.
 
+An alternative to the amplituhedron is the associahedron, which is another geometric object that can be used to encode the amplitudes of certain theories, this time in the context of the study of the amplitudes of gravity and Yang-Mills theory.
+
 ### Grand-Unified Theories (GUTs) in Physics
 
-[$SO(10)$](<https://en.wikipedia.org/wiki/SO(10)>) refers to a grand unified theory (GUT) based on the spin group $Spin(10)$.
+$[SO(10)](<https://en.wikipedia.org/wiki/SO(10)>)$ refers to a grand unified theory (GUT) based on the spin group $Spin(10)$.
 
 In grand unification theories, [E6](<https://en.wikipedia.org/wiki/E6_(mathematics)>) appears as a possible gauge group which, after its breaking, gives rise to the SU(3) × SU(2) × U(1) gauge group of the standard model.
 
