@@ -71,11 +71,31 @@ This section outlines some of the reasons why specific objects, actions, or feat
 
 ### The Structure of Subatomic Particles
 
+A [particle](https://en.wikipedia.org/wiki/Subatomic_particle) is an irreducible representation of the Poincaré group. The local $SU(3)×SU(2)×U(1)$ gauge symmetry is an internal symmetry that essentially defines the Standard Model. The quantum chromodynamics (QCD) sector defines the interactions between quarks and gluons, which is a Yang–Mills gauge theory with $SU(3)$ symmetry. The electroweak sector is a Yang–Mills gauge theory with the symmetry group $U(1) × SU(2)_L$. In the Standard Model, the Higgs field is a complex scalar of the group $SU(2)_L$.
+
+The local SU(3) x SU(2) x U(1) gauge symmetry is important in the Standard Model of particle physics. The Standard Model describes the behavior of the three fundamental forces in nature (electromagnetism, weak nuclear force, and strong nuclear force) and the behavior of all known elementary particles. The SU(3) symmetry describes the strong nuclear force, which is responsible for holding the protons and neutrons in an atom's nucleus together. The SU(2) symmetry describes the weak nuclear force, which is responsible for certain types of radioactive decay. The U(1) symmetry describes the electromagnetic force.
+
+The local nature of the symmetry means that the symmetry can be different at different points in space-time, which allows for the interactions between particles to be described by the exchange of gauge bosons. This theory has been extremely successful in explaining the behavior of particles and their interactions, and has been experimentally verified through a wide range of experiments.
+
 ### Drawing on the Computer Screen
+
+Stereographic projection.
+
+### Mapping the Earth's Surface
+
+Mercator projection.
 
 ### Mapping Mouse Click to a Graphic
 
 ### The Structure of Spacetime
+
+### Quantum Mechanics
+
+In quantum mechanics, symmetries play a crucial role in determining the behavior of physical systems. Group theory is a powerful mathematical tool that is used to describe and analyze these symmetries.
+
+In quantum mechanics, Hilbert space is used to mathematically represent the state space of a quantum system. It is a complex vector space equipped with an inner product, and it is used to describe the wave function of a quantum system. The wave function, which is a mathematical function that describes the state of a system, is typically represented as a vector in Hilbert space. The inner product on Hilbert space allows for the calculation of probabilities and the creation of probability distributions. Additionally, the mathematical structure of Hilbert space allows for the use of linear algebraic techniques to study the time evolution of a quantum system. In short, the use of Hilbert space in quantum mechanics allows for a precise mathematical description of quantum systems, which is essential for understanding their behavior and making predictions about their future states.
+
+### Quantum Computing
 
 ### Automatic Layouts
 
@@ -90,6 +110,10 @@ This section outlines some of the reasons why specific objects, actions, or feat
 This makes it so the compiler detects errors before your program runs.
 
 ### Parsing Text
+
+### The Block Chain
+
+### String Theory
 
 ## Appendix
 
@@ -162,15 +186,32 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. Monomorphism
 1. Endomorphism
 1. Morphism
+1. Quaternion
+1. Octonion
 
 ### Mathematical Geometries
 
 #### List of Mathematical Geometries
 
-- Elliptic Geometry
-- Euclidean Geometry
-- Hyperbolic Geometry
-- Spherical Geometry
+1. **Hyperbolic geometry**: the study of the geometry of hyperbolic space, which is negatively curved.
+1. **Elliptic geometry**: the study of the geometry of elliptic space, which is positively curved.
+1. **Fractal geometry**: the study of geometric shapes that exhibit self-similarity at different scales.
+1. **Sub-Riemannian geometry**: the study of Riemannian geometry with a constraint on the admissible directions.
+1. **Tropical geometry**: the study of geometry over the tropical semiring and tropical varieties.
+1. **Lorentzian geometry**: the study of smooth manifolds equipped with a Lorentzian metric, which allows for the calculation of spacetime intervals and the study of special relativity.
+1. **Kähler geometry**: a type of Riemannian geometry that is particularly well-suited to complex manifolds and holomorphic functions.
+1. **Tensor geometry**: the study of geometric properties that can be expressed using tensors, such as the Riemann curvature tensor.
+1. **Euclidean geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures in two- and three-dimensional space, based on the axioms of Euclid.
+1. **Non-Euclidean geometry**: a type of geometry that extends Euclidean geometry by dropping or modifying one or more of Euclid's axioms. Examples include hyperbolic and elliptic geometry.
+1. **Riemannian geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures in a general smooth n-dimensional manifold, based on the concept of a Riemannian metric.
+1. **Finsler geometry**: a type of geometry that generalizes Riemannian geometry by replacing the Riemannian metric with a Finsler metric, which is a function that assigns a non-symmetric norm to each tangent vector of the manifold.
+1. **Projective geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures in a projective space, which is a space formed by taking the quotient of a vector space by a scalar multiplication action.
+1. **Conformal geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures that are preserved under a conformal transformation, which is a type of transformation that preserves angles but not necessarily lengths or areas.
+1. **Differential geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures in a smooth n-dimensional manifold, based on the concept of a differential structure, which is a way of defining a smooth function and a smooth vector field on the manifold.
+1. **Algebraic geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures in an algebraic variety, which is a solution set of a system of polynomial equations in n variables.
+1. **Synthetic geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures without the use of coordinates or measurements, based on the concept of primitive notions such as point, line, and incidence.
+1. **Discrete geometry**: a type of geometry that deals with the properties and relations of points, lines, angles, and figures in discrete structures such as graphs, polyhedra, and tilings.
+1. **Affine geometry**: the study of geometric properties that remain invariant under translation, rotation and scaling.
 
 ### Mathematical Groups
 
@@ -537,3 +578,33 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **Multivariate polynomials**: polynomials with multiple variables, such as x^2 + y^3 + z^4.
 1. **Legendre polynomials**: a specific type of orthogonal polynomials named after Adrien-Marie Legendre, often used in physics and numerical analysis.
 1. **Cyclotomic polynomials**: polynomials that are related to the roots of unity, often used in number theory and algebraic geometry.
+
+### Mathematical Symmetries
+
+#### List of Mathematical Symmetries
+
+1. **Continuous symmetry**: Symmetries that are described by continuous groups of transformations, such as rotations and translations.
+1. **Discrete symmetry**: Symmetries that are described by discrete groups of transformations, such as reflections and permutations.
+1. **Point symmetry**: Symmetries that leave at least one point fixed, such as rotations about a point.
+1. **Global symmetry**: Symmetries that are defined for the entire system, such as translations in space.
+1. **Local symmetry**: Symmetries that are defined for a specific region of the system, such as rotations about a point in a specific subspace.
+1. **Projective symmetry**: Symmetries that involve projective transformations, such as in projective geometry.
+1. **Conformal symmetry**: Symmetries that preserve angles, such as in conformal geometry.
+1. **Lie symmetry**: Symmetries that form a Lie group, such as in the study of differential equations.
+1. **Quantum symmetry**: Symmetries that are relevant in quantum mechanics and quantum field theory.
+1. **Super symmetry**: Symmetries that relate bosonic and fermionic degrees of freedom in physics.
+1. **Group symmetry**: A group is a set of elements that can be combined under a binary operation (such as addition or multiplication) that is associative, has an identity element, and every element has an inverse. A symmetry of a mathematical object is a group of transformations that preserve the structure of the object.
+1. **Lie symmetry**: A Lie group is a type of group that is also a smooth manifold, meaning that the group operation and the inverse operation are smooth. Lie symmetries are symmetries of a differential equation or differential system that form a Lie group.
+1. **Riemannian symmetry**: A Riemannian manifold is a smooth manifold equipped with a Riemannian metric, which is a way to measure distance and angles. Riemannian symmetries are symmetries of a Riemannian manifold that preserve the metric structure.
+1. **Poisson symmetry**: A Poisson manifold is a smooth manifold equipped with a Poisson bracket, which is a way to define a Lie algebra structure on the space of smooth functions on the manifold. Poisson symmetries are symmetries of a Poisson manifold that preserve the Poisson bracket.
+1. **Conformal symmetry**: A conformal transformation is a type of transformation that preserves angles, but not necessarily lengths or areas. Conformal symmetries are symmetries of a mathematical object that preserve the conformal structure.
+1. **Weyl symmetry**: A Weyl transformation is a type of transformation that preserves the conformal structure of a space while also preserving the scale. Weyl symmetries are symmetries of a mathematical object that preserve the Weyl structure.
+1. **Galois symmetry**: Galois symmetry is a type of symmetry of a polynomial equation, where the solutions of the equation form a Galois group (a specific type of group).
+1. **Noether symmetry**: Noether symmetry is a type of symmetry that is associated with a continuous symmetry of a physical system and its corresponding conserved quantity.
+1. **Duality symmetry**: Duality symmetries are symmetries of a physical system that relate different descriptions of the same system.
+1. **Symplectic symmetry**: A symmetry that preserves the symplectic form, often represented mathematically as a matrix.
+1. **Orthogonal symmetry**: A symmetry that preserves the inner product, often represented mathematically as a matrix.
+1. **Unitary symmetry**: A symmetry that preserves the inner product and the norm, often represented mathematically as a matrix.
+1. **Quaternionic symmetry**: A symmetry that preserves the quaternionic product, often represented mathematically as a matrix.
+1. **Hyperbolic symmetry**: A symmetry that preserves the hyperbolic metric, often represented mathematically as a matrix.
+1. **Special conformal symmetry**: A symmetry that preserves angles and ratios of distances, but also includes inversions, often represented mathematically as a matrix.
