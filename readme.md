@@ -44,6 +44,9 @@ Math boils down to these sorts of objects, actions, and features:
   - operations (actions on objects)
   - transformation
     - rotate
+      - pitch
+      - roll
+      - yaw
     - skew
     - translate
     - scale
@@ -111,6 +114,22 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **Complex**
 1. **Chain**
 1. **Cochain**
+1. **Hypercycle**
+1. **Horocycle**
+1. **Horosphere**
+1. **Hypersurface**
+1. **[Fiber bundle](https://en.wikipedia.org/wiki/Fiber_bundle)**
+1. **[Submersion](<https://en.wikipedia.org/wiki/Submersion_(mathematics)>)**
+1. Geodesic
+
+### Mathematical Geometries
+
+#### List of Mathematical Geometries
+
+- Elliptic Geometry
+- Euclidean Geometry
+- Hyperbolic Geometry
+- Spherical Geometry
 
 ### Mathematical Groups
 
@@ -307,6 +326,8 @@ Here we go into a bunch of common mathematical structures, first starting with g
 
 #### List of Mathematical Properties
 
+1. **Perpendicular**
+1. **Parallel**
 1. **Associative**: The property that states that the order of operations does not matter when combining three or more elements of a set.
 1. **Commutative**: The property that states that the order of operations does not matter when combining two elements of a set.
 1. **Identity**: An element that leaves other elements unchanged when combined with them.
@@ -337,6 +358,7 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **Metric**: A function that defines a notion of distance between elements of a set.
 1. **Norm**: A function that assigns a non-negative scalar value to each vector in a vector space, that satisfies certain properties such as subadditivity, homogeneity and positive-definiteness.
 1. **Inner product**: A function that assigns a scalar value to each pair of vectors in a vector space, that satisfies certain properties such as linearity, symmetry and positive-definiteness.
+1. **[Orientability](https://en.wikipedia.org/wiki/Orientability)**
 
 ### Mathematical Algebras
 
@@ -441,3 +463,34 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **Flag manifold**: a manifold consisting of all flags (complete chains of linear subspaces) of a given type in a vector space.
 1. **Lorentzian manifold**: a smooth manifold equipped with a Lorentz metric, a smooth quadratic form of signature (n-1,1) on the tangent space at each point.
 1. **Kähler manifold**: a complex manifold equipped with a Hermitian metric and a compatible almost complex structure.
+
+### Mathematical Polynomials
+
+#### List of Mathematical Polynomials
+
+1. **Monomial**: A polynomial with only one term, such as x^2 or 3x.
+1. **Binomial**: A polynomial with two terms, such as x^2 + 3x.
+1. **Trinomial**: A polynomial with three terms, such as x^2 + 3x + 2.
+1. **Multinomial**: A polynomial with more than three terms, such as x^3 + 2x^2 + 3x + 2.
+1. **Linear polynomial**: A polynomial of degree 1, such as 2x + 3.
+1. **Quadratic polynomial**: A polynomial of degree 2, such as x^2 + 3x + 2.
+1. **Cubic polynomial**: A polynomial of degree 3, such as x^3 + 2x^2 + 3x + 2.
+1. **Polynomials of higher degree**: A polynomial of degree 4 or higher, such as x^4 + 2x^3 + 3x^2 + 2x + 1.
+1. **Constant polynomials**: A polynomial that always returns the same value, such as 5.
+1. **Zero polynomials**: A polynomial that always returns zero, such as 0.
+1. **Orthogonal polynomials**: polynomials that satisfy a certain orthogonality condition in some inner product space.
+1. **Power series**: polynomials with infinite number of terms.
+1. **Chebyshev polynomials**: polynomials that minimize the maximum deviation from zero on an interval.
+1. **Hermite polynomials**: polynomials that arise in the solution of the Schrödinger equation in quantum mechanics.
+1. **Laguerre polynomials**: polynomials that arise in the solution of certain differential equations with boundary conditions.
+1. **Legendre polynomials**: polynomials that arise in many areas of physics and engineering.
+1. **Schur polynomials**: polynomials that arise in the representation theory of symmetric groups and general linear groups.
+1. **Zonal polynomials**: polynomials that arise in the study of symmetric functions and symmetric spaces.
+1. **Jacobi polynomials**: polynomials that arise in the study of partial differential equations and special functions.
+1. **Rational polynomials**: polynomials with the ratio of two polynomials.
+1. **Algebraic polynomials**: polynomials with algebraic coefficients, such as rational or complex numbers.
+1. **Transcendental polynomials**: polynomials with coefficients that are not algebraic, such as exponential or trigonometric functions.
+1. **Univariate polynomials**: polynomials with a single variable, such as x^2 + 3x + 1.
+1. **Multivariate polynomials**: polynomials with multiple variables, such as x^2 + y^3 + z^4.
+1. **Legendre polynomials**: a specific type of orthogonal polynomials named after Adrien-Marie Legendre, often used in physics and numerical analysis.
+1. **Cyclotomic polynomials**: polynomials that are related to the roots of unity, often used in number theory and algebraic geometry.
