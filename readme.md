@@ -121,6 +121,19 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **[Fiber bundle](https://en.wikipedia.org/wiki/Fiber_bundle)**
 1. **[Submersion](<https://en.wikipedia.org/wiki/Submersion_(mathematics)>)**
 1. Geodesic
+1. Angle
+1. Radius
+1. Sector
+1. Vector
+1. Magnitude
+1. Scalar
+1. Determinant
+1. Isomorphism
+1. Homomorphism
+1. Diffeomorphism
+1. Monomorphism
+1. Endomorphism
+1. Morphism
 
 ### Mathematical Geometries
 
@@ -190,6 +203,7 @@ Here we go into a bunch of common mathematical structures, first starting with g
 1. **Outer automorphism groups**: A group of automorphisms of a group that are not inner automorphisms.
 1. **Automorphism groups**: A group of automorphisms of a group.
 1. **General linear groups**: A group of invertible matrices.
+1. **[Indefinite orthogonal group](https://en.wikipedia.org/wiki/Indefinite_orthogonal_group)**
 
 ### Mathematical Matrices
 
@@ -326,6 +340,7 @@ Here we go into a bunch of common mathematical structures, first starting with g
 
 #### List of Mathematical Properties
 
+1. Homogeneity
 1. **Perpendicular**
 1. **Parallel**
 1. **Associative**: The property that states that the order of operations does not matter when combining three or more elements of a set.
