@@ -1,5 +1,11 @@
 # Math for the Layman
 
+This resource aims to be a complete introduction to all of modern math. A broad overview so you can see the playing field and get to know the central structures.
+
+Modern math is basically a bunch of terms for relatively simple things. The terms often involve people's names, which give no hint at the underlying structure. But it is necessary to use something like people's names because the structure is subtle with a long definition and properties which define it, so identifying that suite of properties by an ID other than a number is helpful so you don't mix things up.
+
+## Overview of the Mathematical Objects, Actions, and Features
+
 Math boils down to these sorts of objects, actions, and features:
 
 - objects
@@ -57,6 +63,8 @@ Math boils down to these sorts of objects, actions, and features:
 Each of these has dozens or hundreds of sub-types focusing on different aspects of the structure.
 
 ## Appendix
+
+Here we go into a bunch of common mathematical structures, first starting with general high-level structures, then digging down into lists of structures in categories which have lots of named structures.
 
 ### Mathematical Structures
 
